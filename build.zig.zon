@@ -1,7 +1,7 @@
 .{
     .name = "treez",
     .version = "0.1.0",
-
+    .paths = .{""},
     .dependencies = .{
         .@"tree-sitter" = .{
             .url = "https://github.com/ziglibs/tree-sitter/archive/1be7d7a849f9242d6a74e1836a1cac6deefb5f7d.tar.gz",
